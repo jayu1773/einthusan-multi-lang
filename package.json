@@ -1,0 +1,16 @@
+
+{
+  "name": "einthusan-multi-lang",
+  "version": "1.0.0",
+  "description": "Einthusan multi-language Stremio addon with global search and externalUrl streams",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "express": "^4.19.0",
+    "stremio-addon-sdk": "^1.6.5"
+  }
+}
